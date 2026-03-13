@@ -23,5 +23,10 @@ img {
 
 p {
   padding: 10px;
+  color: gray;
   text-shadow: blanchedalmond;
+}
+
+h3  {
+  color: gray;
 }
